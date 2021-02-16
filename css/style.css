@@ -198,6 +198,10 @@ header .navbar-toggler {
 header .navbar-nav .nav-item {
   color:#6c757d ;
 }
+header .navbar-brand img {
+  width:180px;
+  height:50px ;
+}
 header .navbar-nav .cart_Count {
   background-color: #ff817a;
   width: 19.5px;
