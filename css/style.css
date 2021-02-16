@@ -199,8 +199,9 @@ header .navbar-nav .nav-item {
   color:#6c757d ;
 }
 header .navbar-brand img {
-  width:180px;
+  width:120px;
   height:50px ;
+  margin-left:  20px; 
 }
 header .navbar-nav .cart_Count {
   background-color: #ff817a;
